@@ -26,6 +26,33 @@
 			"mentor": "Maricela Alemán",
 			"categoria": "Emprendimiento",
 			"foto": "https://i.ibb.co/74dzcBd/3.jpg"
+		},
+		{
+			"id": 4,
+			"nombre": "Scrum Máster",
+			"extracto": "Es el único curso de Scrum recomendado por Jeff Sutherland, el fundador de Scrum.",
+			"detalle": "Relevancia Profesional: Según LinkedIn, el Scrum Master se encuentra entre los 10 perfiles más buscados en el mercado laboral. Al dominar Scrum, no solo enriqueces tu CV, sino que también puedes incrementar significativamente tu salario y oportunidades laborales. Aprenderás a: Recuperar la pasión por tu trabajo, potenciar el desempeño de tus proyectos, mejorar el rendimiento de tu equipo y a entregar valor a tus clientes de manera más rápida y eficiente.",
+			"mentor": "Fabian Schwartz",
+			"categoria": "Gestión de proyectos",
+			"foto": ""
+		},
+		{
+			"id": 5,
+			"nombre": "Aprende a Modelar Procesos como un Experto",
+			"extracto": "Guía completa BPMN usando el moderno software BIZAGI. Crea tus primeros modelos de procesos con sencillez y excelencia.",
+			"detalle": "Aprende a modelar procesos de negocio de forma eficiente y sencilla. Domina una metodología eficiente para modelar procesos en computadora. Comprende el adecuado uso de los elementos que integran la BPMN 2.0. Realiza simulaciones de procesos para evaluar su desempeño",
+			"mentor": "Jesús Planas",
+			"categoria": "Gestión de proyectos",
+			"foto": ""
+		},
+		{
+			"id": 6,
+			"nombre": "BIM para empresas.",
+			"extracto": "Conoce los fundamentos de la Metodología BIM (Building Information Modeling).",
+			"detalle": "¿Alguna vez te has preguntado cómo empresas como ARUP, AECOM, IDOM, INECO desarrollan sus proyectos en BIM? Este curso acerca de los fundamentos y conceptos básicos de la Metodología BIM (Building Information Modeling) te aportará como profesional del sector, una base sólida de conocimiento con la que podrás integrarte en estructuras de trabajo que desarrollen proyectos de edificación y/o infraestructuras de forma colaborativa según Metodología BIM.",
+			"mentor": "Carlos Lucena",
+			"categoria": "Gestión de proyectos",
+			"foto": ""
 		}
 	]
 }
