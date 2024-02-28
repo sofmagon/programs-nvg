@@ -1,0 +1,17 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "Fake API using JSON server",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "keywords": [],
+  "author": "Sofía Martinelli @sofmagon",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  }
+}
