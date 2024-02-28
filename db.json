@@ -1,0 +1,31 @@
+{
+	"programs": [
+		{
+			"id": 1,
+			"nombre": "Administración de Empresas",
+			"extracto": "Comprender fundamentos de la administración: planificación, organización, dirección y control, y la importancia de la toma de decisiones.",
+			"detalle": "Gestionar eficazmente recursos y personas: manejo de recursos financieros, materiales y humanos, y creación de un entorno de trabajo eficiente y productivo. Aplicar estrategias empresariales efectivas: formulación de metas, toma de decisiones basada en datos y adaptación al cambio empresarial. Abordar desafíos actuales: gestión del cambio, sostenibilidad, gestión de riesgos, globalización y adopción de tecnologías disruptivas.",
+			"mentor": "Roberto Romo",
+			"categoria": "Emprendimiento",
+			"foto": "https://i.ibb.co/HtY06cK/1.png"
+		},
+		{
+			"id": 2,
+			"nombre": "Estrategia, Liderazgo y Finanzas",
+			"extracto": "Este curso es un viaje integral que te llevará desde los fundamentos de la gestión empresarial hasta las tácticas más avanzadas para hacer crecer tu negocio o carrera profesional.",
+			"detalle": "Análisis FODA: Aprende a evaluar las Fortalezas, Debilidades, Oportunidades y Amenazas de tu empresa, lo que te permitirá tomar decisiones más informadas. Gestión Estratégica: Descubre cómo diseñar e implementar estrategias que llevan al éxito empresarial. Adquiere las habilidades necesarias para planificar, ejecutar y evaluar planes estratégicos. Liderazgo Empresarial: Conoce los diferentes estilos de liderazgo y cómo aplicarlos en diversas situaciones. Aprende a motivar a tu equipo, gestionar conflictos y crear una cultura empresarial positiva. Finanzas para no Financieros: Obtén una comprensión básica de los conceptos financieros que todo profesional debe conocer. Aprende a leer estados financieros, comprender indicadores clave y tomar decisiones basadas en datos financieros.",
+			"mentor": "Pilar González",
+			"categoria": "Emprendimiento",
+			"foto": "https://i.ibb.co/Vwygzmb/2.jpg"
+		},
+		{
+			"id": 3,
+			"nombre": "Cómo hacer un Plan de Negocio",
+			"extracto": "El Plan de Negocio o Plan de Empresa es un documento detallado que incluye la descripción del concepto de negocio, su entorno, sus clientes, sus estrategias y su viabilidad financiera para llevarse a cabo.",
+			"detalle": "Seguramente te has planteado alguna vez empezar tu propio negocio o, simplemente, quieres aumentar los beneficios de tu empresa actual. Independientemente de tus metas y objetivos, lo que realmente necesitas para conseguirlo es un plan de negocio. Si eres un emprendedor con una gran idea que quieres convertir en negocio, este curso te proporcionará las herramientas para crear el camino, solicitar la financiación o conseguir socios. Si eres un pequeño empresario, aprenderás a enfocarte en los parámetros justos para hacer crecer tu empresa. En definitiva, en este curso aprenderás las pautas para garantizar tu éxito empresarial y minimizar el riesgo de fracaso. Conseguirás, por fin, que tu sueño se haga realidad.",
+			"mentor": "Maricela Alemán",
+			"categoria": "Emprendimiento",
+			"foto": "https://i.ibb.co/74dzcBd/3.jpg"
+		}
+	]
+}
