@@ -10,6 +10,8 @@
 			"date_start": "2024-06-01",
 			"date_end": "2024-08-31",
 			"industry": "Sector 1",
+			"picture": "https://i.ibb.co/Qdp3zn0/1.png",
+			"generations_count": 4,
 			"generations": [
 				{
 					"year": "2003"
@@ -24,7 +26,6 @@
 					"year": "2011"
 				}
 			],
-			"generations_count": 4,
 			"mentors_related": [
 				{
 					"mentor_name": "Michael Brown",
@@ -38,8 +39,7 @@
 					"mentor_name": "Emily Johnson",
 					"mentor_picture": "https://i.ibb.co/RQZ81Xm/6.jpg"
 				}
-			],
-			"picture": "https://i.ibb.co/Qdp3zn0/1.png"
+			]
 		},
 		{
 			"id": 2,
@@ -51,6 +51,8 @@
 			"date_start": "2024-04-15",
 			"date_end": "2024-05-15",
 			"industry": "Sector 2",
+			"picture": "https://i.ibb.co/Bwh2nQs/2.jpg",
+			"generations_count": 3,
 			"generations": [
 				{
 					"year": "2005"
@@ -62,7 +64,6 @@
 					"year": "2020"
 				}
 			],
-			"generations_count": 3,
 			"mentors_related": [
 				{
 					"mentor_name": "John Doe",
@@ -72,8 +73,7 @@
 					"mentor_name": "Jane Smith",
 					"mentor_picture": "https://i.ibb.co/93N0JKF/2.jpg"
 				}
-			],
-			"picture": "https://i.ibb.co/Bwh2nQs/2.jpg"
+			]
 		},
 		{
 			"id": 3,
@@ -85,6 +85,8 @@
 			"date_start": "2024-03-01",
 			"date_end": "2024-12-31",
 			"industry": "Sector 3",
+			"picture": "https://i.ibb.co/pPyLP8X/3.jpg",
+			"generations_count": 6,
 			"generations": [
 				{
 					"year": "2018"
@@ -105,7 +107,6 @@
 					"year": "2023"
 				}
 			],
-			"generations_count": 6,
 			"mentors_related": [
 				{
 					"mentor_name": "Jane Smith",
@@ -123,8 +124,7 @@
 					"mentor_name": "Emily Johnson",
 					"mentor_picture": "https://i.ibb.co/RQZ81Xm/6.jpg"
 				}
-			],
-			"picture": "https://i.ibb.co/pPyLP8X/3.jpg"
+			]
 		},
 		{
 			"id": 4,
@@ -136,6 +136,8 @@
 			"date_start": "2024-09-01",
 			"date_end": "2025-05-31",
 			"industry": "Sector 1",
+			"picture": "https://i.ibb.co/By76mHJ/4.png",
+			"generations_count": 8,
 			"generations": [
 				{
 					"year": "2000"
@@ -162,7 +164,6 @@
 					"year": "2024"
 				}
 			],
-			"generations_count": 8,
 			"mentors_related": [
 				{
 					"mentor_name": "John Doe",
@@ -172,8 +173,7 @@
 					"mentor_name": "Michael Brown",
 					"mentor_picture": "https://i.ibb.co/GJF7CGD/5.jpg"
 				}
-			],
-			"picture": "https://i.ibb.co/By76mHJ/4.png"
+			]
 		},
 		{
 			"id": 5,
@@ -185,6 +185,8 @@
 			"date_start": "2024-07-01",
 			"date_end": "2024-12-31",
 			"industry": "Sector 1",
+			"picture": "https://i.ibb.co/smvGwP7/5.jpg",
+			"generations_count": 2,
 			"generations": [
 				{
 					"year": "2000"
@@ -193,14 +195,12 @@
 					"year": "2001"
 				}
 			],
-			"generations_count": 2,
 			"mentors_related": [
 				{
 					"mentor_name": "Gloria Garcia",
 					"mentor_picture": "https://i.ibb.co/dQRHmCT/3.jpg"
 				}
-			],
-			"picture": "https://i.ibb.co/smvGwP7/5.jpg"
+			]
 		}
 	]
 }
