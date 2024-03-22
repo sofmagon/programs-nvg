@@ -5,50 +5,202 @@
 			"name": "Summer Internship Program",
 			"description": "A comprehensive internship program for college students to gain real-world experience.",
 			"sponsor": "Tech Solutions Inc.",
+			"sponsor_site": "https://www.techsolutionsinc.com",
+			"sponsor_picture": "https://i.ibb.co/s93j42h/1.png",
 			"date_start": "2024-06-01",
 			"date_end": "2024-08-31",
-			"category": "Emprendimiento",
-			"picture": "https://i.ibb.co/HtY06cK/1.png"
+			"industry": "Sector 1",
+			"generations": [
+				{
+					"year": "2003"
+				},
+				{
+					"year": "2004"
+				},
+				{
+					"year": "2010"
+				},
+				{
+					"year": "2011"
+				}
+			],
+			"generations_count": 4,
+			"mentors_related": [
+				{
+					"mentor_name": "Michael Brown",
+					"mentor_picture": "https://i.ibb.co/GJF7CGD/5.jpg"
+				},
+				{
+					"mentor_name": "Alice Smith",
+					"mentor_picture": "https://i.ibb.co/6D01R4n/4.jpg"
+				},
+				{
+					"mentor_name": "Emily Johnson",
+					"mentor_picture": "https://i.ibb.co/RQZ81Xm/6.jpg"
+				}
+			],
+			"picture": "https://i.ibb.co/Qdp3zn0/1.png"
 		},
 		{
 			"id": 2,
 			"name": "Professional Development Workshop Series",
 			"description": "A series of workshops designed to enhance professional skills and knowledge.",
 			"sponsor": "Learning Solutions Co.",
+			"sponsor_site": "https://www.learningsolutionsco.com",
+			"sponsor_picture": "https://i.ibb.co/fSXRBcb/2.png",
 			"date_start": "2024-04-15",
 			"date_end": "2024-05-15",
-			"category": "Emprendimiento",
-			"picture": "https://i.ibb.co/Vwygzmb/2.jpg"
+			"industry": "Sector 2",
+			"generations": [
+				{
+					"year": "2005"
+				},
+				{
+					"year": "2015"
+				},
+				{
+					"year": "2020"
+				}
+			],
+			"generations_count": 3,
+			"mentors_related": [
+				{
+					"mentor_name": "John Doe",
+					"mentor_picture": "https://i.ibb.co/zNH3rSb/1.jpg"
+				},
+				{
+					"mentor_name": "Jane Smith",
+					"mentor_picture": "https://i.ibb.co/93N0JKF/2.jpg"
+				}
+			],
+			"picture": "https://i.ibb.co/Bwh2nQs/2.jpg"
 		},
 		{
 			"id": 3,
 			"name": "Health and Wellness Program",
 			"description": "An initiative focused on promoting physical and mental well-being among employees.",
 			"sponsor": "Healthcare Providers Ltd.",
+			"sponsor_site": "https://www.healthcareprovidersltd.com",
+			"sponsor_picture": "https://i.ibb.co/zbTgzTL/3.png",
 			"date_start": "2024-03-01",
 			"date_end": "2024-12-31",
-			"category": "Emprendimiento",
-			"picture": "https://i.ibb.co/HtY06cK/1.png"
+			"industry": "Sector 3",
+			"generations": [
+				{
+					"year": "2018"
+				},
+				{
+					"year": "2019"
+				},
+				{
+					"year": "2020"
+				},
+				{
+					"year": "2021"
+				},
+				{
+					"year": "2022"
+				},
+				{
+					"year": "2023"
+				}
+			],
+			"generations_count": 6,
+			"mentors_related": [
+				{
+					"mentor_name": "Jane Smith",
+					"mentor_picture": "https://i.ibb.co/93N0JKF/2.jpg"
+				},
+				{
+					"mentor_name": "Gloria Garcia",
+					"mentor_picture": "https://i.ibb.co/dQRHmCT/3.jpg"
+				},
+				{
+					"mentor_name": "Alice Smith",
+					"mentor_picture": "https://i.ibb.co/6D01R4n/4.jpg"
+				},
+				{
+					"mentor_name": "Emily Johnson",
+					"mentor_picture": "https://i.ibb.co/RQZ81Xm/6.jpg"
+				}
+			],
+			"picture": "https://i.ibb.co/pPyLP8X/3.jpg"
 		},
 		{
 			"id": 4,
 			"name": "STEM Education Outreach Program",
 			"description": "An outreach program aimed at inspiring students to pursue careers in STEM fields.",
 			"sponsor": "STEM Foundation",
+			"sponsor_site": "https://www.stemfoundation.com",
+			"sponsor_picture": "https://i.ibb.co/Dfk61Gr/4.png",
 			"date_start": "2024-09-01",
 			"date_end": "2025-05-31",
-			"category": "Gestión de proyectos",
-			"picture": "https://i.ibb.co/Vwygzmb/2.jpg"
+			"industry": "Sector 1",
+			"generations": [
+				{
+					"year": "2000"
+				},
+				{
+					"year": "2001"
+				},
+				{
+					"year": "2010"
+				},
+				{
+					"year": "2015"
+				},
+				{
+					"year": "2019"
+				},
+				{
+					"year": "2020"
+				},
+				{
+					"year": "2021"
+				},
+				{
+					"year": "2024"
+				}
+			],
+			"generations_count": 8,
+			"mentors_related": [
+				{
+					"mentor_name": "John Doe",
+					"mentor_picture": "https://i.ibb.co/zNH3rSb/1.jpg"
+				},
+				{
+					"mentor_name": "Michael Brown",
+					"mentor_picture": "https://i.ibb.co/GJF7CGD/5.jpg"
+				}
+			],
+			"picture": "https://i.ibb.co/By76mHJ/4.png"
 		},
 		{
 			"id": 5,
 			"name": "Community Volunteer Project",
 			"description": "A volunteer initiative to contribute to the local community through various projects.",
 			"sponsor": "Community Services Organization",
+			"sponsor_site": "https://www.communityservicesorganization.com",
+			"sponsor_picture": "https://i.ibb.co/dPMpYmd/5.png",
 			"date_start": "2024-07-01",
 			"date_end": "2024-12-31",
-			"category": "Gestión de proyectos",
-			"picture": "https://i.ibb.co/HtY06cK/1.png"
+			"industry": "Sector 3",
+			"generations": [
+				{
+					"year": "2000"
+				},
+				{
+					"year": "2001"
+				}
+			],
+			"generations_count": 2,
+			"mentors_related": [
+				{
+					"mentor_name": "Gloria Garcia",
+					"mentor_picture": "https://i.ibb.co/dQRHmCT/3.jpg"
+				}
+			],
+			"picture": "https://i.ibb.co/smvGwP7/5.jpg"
 		}
 	]
 }
