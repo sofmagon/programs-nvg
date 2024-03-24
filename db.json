@@ -29,14 +29,20 @@
 			"mentors_related": [
 				{
 					"mentor_name": "Michael Brown",
+					"mentor_company": "Healthcare Solutions Ltd",
+					"mentor_job_position": "Medical Researcher",
 					"mentor_picture": "https://i.ibb.co/GJF7CGD/5.jpg"
 				},
 				{
 					"mentor_name": "Alice Smith",
+					"mentor_company": "Finance Solutions LLC",
+					"mentor_job_position": "Financial Analyst",
 					"mentor_picture": "https://i.ibb.co/6D01R4n/4.jpg"
 				},
 				{
 					"mentor_name": "Emily Johnson",
+					"mentor_company": "Tech Innovations Inc.",
+					"mentor_job_position": "Data Scientist",
 					"mentor_picture": "https://i.ibb.co/RQZ81Xm/6.jpg"
 				}
 			]
@@ -67,10 +73,14 @@
 			"mentors_related": [
 				{
 					"mentor_name": "John Doe",
+					"mentor_company": "Tech Corp",
+					"mentor_job_position": "Software Engineer",
 					"mentor_picture": "https://i.ibb.co/zNH3rSb/1.jpg"
 				},
 				{
 					"mentor_name": "Jane Smith",
+					"mentor_company": "Finance Solutions LLC",
+					"mentor_job_position": "Financial Analyst",
 					"mentor_picture": "https://i.ibb.co/93N0JKF/2.jpg"
 				}
 			]
@@ -110,18 +120,26 @@
 			"mentors_related": [
 				{
 					"mentor_name": "Jane Smith",
+					"mentor_company": "Finance Solutions LLC",
+					"mentor_job_position": "Financial Analyst",
 					"mentor_picture": "https://i.ibb.co/93N0JKF/2.jpg"
 				},
 				{
 					"mentor_name": "Gloria Garcia",
+					"mentor_company": "Marketing Solutions Agency",
+					"mentor_job_position": "Marketing Manager",
 					"mentor_picture": "https://i.ibb.co/dQRHmCT/3.jpg"
 				},
 				{
 					"mentor_name": "Alice Smith",
+					"mentor_company": "Finance Solutions LLC",
+					"mentor_job_position": "Financial Analyst",
 					"mentor_picture": "https://i.ibb.co/6D01R4n/4.jpg"
 				},
 				{
 					"mentor_name": "Emily Johnson",
+					"mentor_company": "Tech Innovations Inc.",
+					"mentor_job_position": "Data Scientist",
 					"mentor_picture": "https://i.ibb.co/RQZ81Xm/6.jpg"
 				}
 			]
@@ -167,10 +185,14 @@
 			"mentors_related": [
 				{
 					"mentor_name": "John Doe",
+					"mentor_company": "Tech Corp",
+					"mentor_job_position": "Software Engineer",
 					"mentor_picture": "https://i.ibb.co/zNH3rSb/1.jpg"
 				},
 				{
 					"mentor_name": "Michael Brown",
+					"mentor_company": "Healthcare Solutions Ltd",
+					"mentor_job_position": "Medical Researcher",
 					"mentor_picture": "https://i.ibb.co/GJF7CGD/5.jpg"
 				}
 			]
@@ -198,6 +220,8 @@
 			"mentors_related": [
 				{
 					"mentor_name": "Gloria Garcia",
+					"mentor_company": "Marketing Solutions Agency",
+					"mentor_job_position": "Marketing Manager",
 					"mentor_picture": "https://i.ibb.co/dQRHmCT/3.jpg"
 				}
 			]
